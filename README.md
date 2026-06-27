@@ -5,7 +5,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Work-2ecc71?style=flat-square)
 ![Focus](https://img.shields.io/badge/Focus-Full--Stack%20%2F%203D%20%26%20Interactive%20Tech-4a90d9?style=flat-square)
-![Education](https://img.shields.io/badge/BS%20Information%20Technology-Dean's%20Lister-9b59b6?style=flat-square)
+![Education](https://img.shields.io/badge/BS%20Information%20Technology-Cum%20Laude-9b59b6?style=flat-square)
 
 </div>
 
